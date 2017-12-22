@@ -2,10 +2,8 @@
   "name": "roots",
   "version": "7.0.3",
   "homepage": "http://roots.io",
-  "authors": [
-    "Ben Word <ben@benword.com>"
-  ],
-  "license": "MIT",
+  "authors": 
+  "license""MIT",
   "private": true,
   "ignore": [
     "**/.*",
